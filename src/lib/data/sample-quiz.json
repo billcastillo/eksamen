@@ -1,0 +1,71 @@
+{
+	"quizName": "Sample quiz name",
+	"id": "asdasdassa",
+	"category": "Countries",
+	"label": "facts",
+	"created": "1691407093761",
+	"questions": [
+		{
+			"questionName": "What is the capital of Taiwan?",
+			"answerType": "radio",
+			"answers": [
+				{
+					"id": "radio1",
+					"type": "radio",
+					"label": "Taipei",
+					"value": "Taipei",
+					"isAnswer": true
+				},
+				{
+					"id": "radio2",
+					"type": "radio",
+					"label": "Tokyo",
+					"value": "Tokyo",
+					"isAnswer": false
+				},
+				{
+					"id": "radio3",
+					"type": "radio",
+					"label": "Beijing",
+					"value": "Beijing",
+					"isAnswer": false
+				},
+				{
+					"id": "radio4",
+					"type": "radio",
+					"label": "Seoul",
+					"value": "Seoul",
+					"isAnswer": false
+				}
+			],
+			"answer": 1
+		},
+		{
+			"questionName": "What is the capital of The Philippines?",
+			"answerType": "radio",
+			"answers": [
+				{
+					"id": "1",
+					"type": "radio",
+					"label": "Cebu"
+				},
+				{
+					"id": "2",
+					"type": "radio",
+					"label": "Manila"
+				},
+				{
+					"id": "3",
+					"type": "radio",
+					"label": "Makati"
+				},
+				{
+					"id": "4",
+					"type": "radio",
+					"label": "Quezon City"
+				}
+			],
+			"answer": 2
+		}
+	]
+}

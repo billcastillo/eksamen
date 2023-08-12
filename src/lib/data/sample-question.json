@@ -1,0 +1,40 @@
+[
+	{
+		"name": "What is the capital of The Philippines",
+		"id": "1234-1234-1234-1231",
+		"index": 1,
+		"answerType": "radio",
+		"isMultipleAnswer": "false",
+		"answer": "radio1",
+		"answers": [
+			{
+				"id": "radio1",
+				"type": "radio",
+				"label": "Taipei",
+				"value": "Taipei",
+				"isAnswer": true
+			},
+			{
+				"id": "radio2",
+				"type": "radio",
+				"label": "Tokyo",
+				"value": "Tokyo",
+				"isAnswer": false
+			},
+			{
+				"id": "radio3",
+				"type": "radio",
+				"label": "Beijing",
+				"value": "Beijing",
+				"isAnswer": false
+			},
+			{
+				"id": "radio4",
+				"type": "radio",
+				"label": "Seoul",
+				"value": "Seoul",
+				"isAnswer": false
+			}
+		]
+	}
+]
