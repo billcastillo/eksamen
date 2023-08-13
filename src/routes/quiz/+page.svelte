@@ -1,10 +1,11 @@
 <script>
 	import { validateWholeQuiz } from '$lib/helpers/quizHelper.js';
-	import RadioGroup from '../../lib/components/radioGroup.svelte';
+	import RadioGroup from '$lib/components/RadioGroup.svelte';
 
 	export let data;
 
 	// const quiz = JSON.parse(data.quiz);
+	// https://www.tailwind-variants.org/docs/introduction
 	$: quiz = JSON.parse(data.quiz);
 
 	function submitQuiz(e) {
